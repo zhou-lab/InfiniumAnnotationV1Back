@@ -1,1 +1,1 @@
-# InfiniumAnnotationV1
+# InfiniumAnnotation Version 1
